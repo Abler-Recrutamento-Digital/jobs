@@ -36,4 +36,4 @@ O profissional irá trabalhar com plataformas voltadas para os clientes dos segm
 - [ ] Conhecimento em PostgreSQL
 - [ ] Desejável: Elasticsearch, Redis
 - [ ] Desejável: Metodologias ágeis
-- [ ] Concluir o do [Desafio 1](./back-end/Challenge1.md) ou o [Desafio 2](./back-end/Challenge2.md)
+- [ ] Concluir o [Desafio 1](./back-end/Challenge1.md) ou o [Desafio 2](./back-end/Challenge2.md)
