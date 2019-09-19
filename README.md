@@ -29,6 +29,8 @@ O profissional irá trabalhar com plataformas voltadas para os clientes dos segm
 
 O profissional irá trabalhar com plataformas voltadas para os clientes dos segmentos de atuação da empresa.
 
+### Requirements
+
 - [ ] Conhecimento em Orientação a objetos
 - [ ] Conhecimento em Git
 - [ ] Conhecimento em Ruby on Rails
