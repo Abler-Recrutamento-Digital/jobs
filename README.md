@@ -16,16 +16,24 @@ O profissional irá trabalhar com plataformas voltadas para os clientes dos segm
 
 ### Requirements
 
-- [ ] Conhecimento em javascript
-- [ ] Conhecimento em git
+- [ ] Conhecimento em Javascript
+- [ ] Conhecimento em Git
 - [ ] Conhecimento em VueJS, Nuxt
-- [ ] Conhecimento em styling and css/scss
+- [ ] Conhecimento em styling and CSS/SCSS
 - [ ] Conhecimento em TDD
-- [ ] Desejável: JWT, Axios, Metodos Ageis
-- [ ] Concluir o [Desafio](./front/Challenge.md)
-
+- [ ] Desejável: JWT, Axios, metodologias ágeis
+- [ ] Concluir o [Desafio](./front-end/Challenge.md)
 
 
 ## Back-end
 
 O profissional irá trabalhar com plataformas voltadas para os clientes dos segmentos de atuação da empresa.
+
+- [ ] Conhecimento em Orientação a objetos
+- [ ] Conhecimento em Git
+- [ ] Conhecimento em Ruby on Rails
+- [ ] Conhecimento em TDD
+- [ ] Conhecimento em PostgreSQL
+- [ ] Desejável: Elasticsearch, Redis
+- [ ] Desejável: Metodologias ágeis
+- [ ] Concluir o do [Desafio 1](./back-end/Challenge1.md) ou o [Desafio 2](./back-end/Challenge2.md)

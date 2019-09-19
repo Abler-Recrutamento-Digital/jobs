@@ -1,4 +1,4 @@
-### Frontend
+### Front-end
 
 O desafio é criar um SPA em Nuxt, onde seja possível realizar as seguintes funções...  
 
