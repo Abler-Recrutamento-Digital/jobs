@@ -10,8 +10,8 @@ O desafio é criar um URL Shortener em Ruby on Rails, assim como o http://bit.ly
 #### O usuário LOGADO deve
 - [ ] Inserir uma URL e receber uma URL encurtada (exemplo: http://localhost:4567/a1b2c3)
 - [ ] Ao acessar a **URL gerada** o usuário deve ser redirecionado para a **URL original** ou para uma página 404 se a URL não existir
-- [ ] A URL gerada deve ser curta e única
-- [ ] Ver a lista de URLs criadas
+- [ ] A URL gerada deve ser **curta** e **única**
+- [ ] O usuário deve ver sua lista de URLs criadas
 
 #### Vamos considerar os seguintes itens:
 
