@@ -1,20 +1,21 @@
 ### Front-end
-
-O desafio é criar um SPA em Nuxt, onde seja possível realizar as seguintes funções...  
-
-- [ ] **Listar os filmes** populares;
+O desafio é criar um app usando Nuxt `Universal Mode (client + server side)` com as seguintes funcionalidades:
+- [ ] **Listar os filmes** populares
 - [ ] **Criar login** usando a autenticação da API
-- [ ] Realizar a **busca de um filme** pelo seu título;
-- [ ] Também deve ser possível **visualizar mais detalhes dos filmes**;
-- [ ] Criar uma **lista de filmes** para seu usuário
+- [ ] Realizar a **busca de um filme** pelo seu título
+- [ ] Visualizar **mais detalhes dos filmes**
+- [ ] **Lista de filmes** para seu usuário
 
-A API a ser utilizada será a [The Movie DB](https://www.themoviedb.org/documentation/api/sessions) ao qual o candidato deverá criar uma conta.
-
+#### Pontos a considerar/diferenciais
+- [ ] Projeto público no [Github](https://github.com/)
+- [ ] Documentar o projeto com um `Readme`
 - [ ] Layout bem feito
 - [ ] Código organizado
-- [ ] Deve publicar o projeto como publico no [Github](https://github.com/)
-- [ ] Deve disponibilizar o projeto no [Netlify](https://www.netlify.com/)
-- [ ] Diferencial: Utilizar alguma biblioteca de controle de estado ex.: **Vuex**
-- [ ] Diferencial: > Testes
-- [ ] Diferencial: Styled Components
-- [ ] Diferencial: Usar outros endpoints disponível na documentação  [documentação](https://developers.themoviedb.org/3/getting-started/introduction)
+- [ ] Arquitetura do projeto
+- [ ] Styled components
+- [ ] Testes
+- [ ] Uso do Git
+- [ ] Usar outros endpoints disponível na documentação [documentação](https://developers.themoviedb.org/3/getting-started/introduction)
+
+#### Observações
+- A API a ser utilizada será a [The Movie DB](https://www.themoviedb.org/documentation/api/sessions) ao qual o candidato deverá criar uma conta
