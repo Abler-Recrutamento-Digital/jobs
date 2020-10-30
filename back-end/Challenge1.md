@@ -1,7 +1,7 @@
 ### Back-end
+O desafio é criar um microblog em Ruby on Rails, assim como o Twitter. Pode ser uma aplicação monolítica ou API + front-end, fica a seu critério 😄
 
-O desafio é criar um microblog em Ruby on Rails, assim como o Twitter, onde seja possível realizar as seguintes funções:
-
+onde seja possível realizar as seguintes funções:
 - [ ] Autenticação (email/senha, OAuth, passwordless como preferir)
 
 #### O usuário LOGADO deve
@@ -20,7 +20,6 @@ O desafio é criar um microblog em Ruby on Rails, assim como o Twitter, onde sej
 - [ ] Ver as postagens do perfil
 
 Vamos considerar os seguintes itens:
-
 - [ ] Layout bem feito
 - [ ] Código organizado
 - [ ] Deve publicar o projeto como publico no [Github](https://github.com/)
