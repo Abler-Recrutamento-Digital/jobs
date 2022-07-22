@@ -17,7 +17,7 @@ O desafio é criar um app usando Vue + Nuxt `Universal Mode (client + server sid
 - [ ] Styled components
 - [ ] Testes
 - [ ] Uso do Git
-- [ ] Usar outros endpoints disponível na documentação [documentação](https://developers.themoviedb.org/3/getting-started/introduction)
+- [ ] Usar outros endpoints disponível na documentação [documentação](https://developers.themoviedb.org/4/getting-started/introduction)
 
 #### Observações
 - A API a ser utilizada será a [The Movie DB](https://www.themoviedb.org/documentation/api/sessions) ao qual você deverá criar uma conta.
